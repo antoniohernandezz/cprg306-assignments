@@ -1,5 +1,4 @@
-import StudentInfo from '../StudentInfo'
-
+import StudentInfo from '../StudentInfo';
 
 export default function ShoppingList() {
     return (
